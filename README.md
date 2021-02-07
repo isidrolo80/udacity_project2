@@ -35,3 +35,7 @@ The following is a list of the courses associated with the Front End Nanodegree.
 See below for the Udacity Style Guide used thoroughout the Front End Nanodegree.
 
 * [Nanodegree Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/)
+
+## The code is located in the landing-page folder. 
+
+There are only 1 Javascript and 1 CSS file. 
