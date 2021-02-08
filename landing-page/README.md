@@ -1,4 +1,4 @@
-# Landing Page Project
+# FrontEnd Web Developer - Udacity - Project #2 - Isidro Lopez
 
 ## Table of Contents
 
@@ -6,8 +6,13 @@
 
 ## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+This is my project which is based upon the code provided by Udacity to complete it. It has 3 important files which are: 
 
-To get started, open `js/app.js` and start building out the app's functionality
+Index.html 
+	> This is the main file. It loads all dependencies and is where the project is joint together. 
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+css/styles.css
+	> All the styles are included in here to make the website look as it does. 
+
+js/app.js
+	> This is were all the magic happens. It creates de list dinamically and allows 

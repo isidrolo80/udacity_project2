@@ -14,13 +14,17 @@ html {
 
 /* navBar */ 
 /* Add a black background color to the top navigation */
+a{
+    color: white;
+    text-decoration: none;
+}
 .topnav {
   background-color: #05123c;
   overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
-.topnav a {
+.topnav li {
   float: left;
   display: block;
   color: #f2f2f2;
@@ -31,15 +35,17 @@ html {
 }
 
 /* Change the color of links on hover */
-.topnav a:hover {
+.topnav li:hover {
   background-color: #8fbfa7;
   color: black;
+  text-decoration: none;
 }
 
 /* Add an active class to highlight the current page */
-.topnav a.active {
+.topnav li.active {
   background-color: #4CAF50;
   color: white;
+  text-decoration: none;
 }
 
 /* Hide the link that should open and close the topnav on small screens */
